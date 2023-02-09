@@ -22,7 +22,7 @@
   <img align="center" alt="valdenio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="valdenio-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="right" alt="valdenio-pic" height="150" style="border-radius:50px;" 
-  src="https://cdn.midjourney.com/21dc3b72-8ce6-44ea-96a4-576a49216c8f/grid_0.png">
+  src="https://media.discordapp.net/attachments/1062385427157360770/1073285971459706920/Lucas_valdez_sketch_4c4d977b-69d2-4f76-9a78-a20733a878a0.png?width=670&height=670">
 </div>
  
 
